@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/jstree-themes" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node_modules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node_modules/handlebars/handlebars.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/node_modules/jquery/jquery-ui.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/node_modules/jquery/jquery.layout.resizePaneAccordions-latest.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/node_modules/jquery/jquery.mockjax.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/node_modules/jquery/jstree.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/node_modules/requirejs/domReady.js" charset="GBK" />
+  </component>
+</project>
